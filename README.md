@@ -1,4 +1,4 @@
-# Easy-GUI-to-open-and-select-data-from-CSV
+# Easy-GUI-for-CSV
 
 A GUI to select and open data from a CSV file.
 
